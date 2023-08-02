@@ -8,8 +8,6 @@
 
 Este proyecto constará de tres fases: `Análisis exploratorio de datos`, `Preparación de datos` y `Modelamiento y evaluación`.
 
-### 1. Análisis exploratorio de datos
-
 Machine Learning en Medicina: Al aplicar Machine Learning en Medicina, se pueden usar las herramientas informáticas con el fin de conseguir información a partir de los datos, por ejemplo, de historias clínicas o registros de prestadores de servicios de salud. De esta manera, se pueden emitir diagnósticos predictivos, evaluar la efectividad de estrategias de intervención y anticipar comportamientos en escenarios relacionados con la atención.
 
 ## **Planteamiento de la problemática**
